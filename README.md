@@ -1,2 +1,2 @@
 # git-learn
-To lean abou git and git hub
+To lean about git and git hub
